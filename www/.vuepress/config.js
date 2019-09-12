@@ -13,13 +13,13 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       {
-        text: 'Schrânk!', link: '/schrank'
+        text: 'Schrânk!', link: '/schrank/'
       },
       {
-        text: 'Guruguru', link: '/guruguru'
+        text: 'Guruguru', link: '/guruguru/'
       },
       {
-        text: 'Contact', link: '/contact'
+        text: 'Contact', link: '/contact/'
       },
     ]
     
