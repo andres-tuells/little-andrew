@@ -1,0 +1,30 @@
+{
+  "name": "little-andrew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "./node_modules/vuepress/cli.js dev www",
+    "build": "rm -rf ./docs && ./node_modules/vuepress/cli.js build www -d docs",
+    "eject": "./node_modules/vuepress/cli.js eject www"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "tailwindcss": "^0.7.4",
+    "vuepress": "^1.0.0-alpha.44"
+  },
+  "dependencies": {
+    "vuepress": "^1.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres-tuells/little-andrew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andres-tuells/little-andrew/issues"
+  },
+  "homepage": "https://github.com/andres-tuells/little-andrew#readme"
+}
