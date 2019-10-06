@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'The Craziest Project',
-  description: 'The only way to be sane is to be mad.',
+  title: 'Little Andrew',
+  description: 'Little big clown',
   lastUpdated: 'Last Updated', // string | boolean
   markdown: {
     config: md => {
