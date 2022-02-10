@@ -9,7 +9,7 @@
     "eject": "./node_modules/vuepress/cli.js eject www"
   },
   "devDependencies": {
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "tailwindcss": "^0.7.4",
     "vuepress": "^1.0.0-alpha.44"
